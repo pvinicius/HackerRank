@@ -1,0 +1,7 @@
+C:\Projects\HackerRank\Array_2D_DS\Array_2D_DS\bin\Debug\Array_2D_DS.exe.config
+C:\Projects\HackerRank\Array_2D_DS\Array_2D_DS\bin\Debug\Array_2D_DS.exe
+C:\Projects\HackerRank\Array_2D_DS\Array_2D_DS\bin\Debug\Array_2D_DS.pdb
+C:\Projects\HackerRank\Array_2D_DS\Array_2D_DS\obj\Debug\Array_2D_DS.csprojAssemblyReference.cache
+C:\Projects\HackerRank\Array_2D_DS\Array_2D_DS\obj\Debug\Array_2D_DS.csproj.CoreCompileInputs.cache
+C:\Projects\HackerRank\Array_2D_DS\Array_2D_DS\obj\Debug\Array_2D_DS.exe
+C:\Projects\HackerRank\Array_2D_DS\Array_2D_DS\obj\Debug\Array_2D_DS.pdb

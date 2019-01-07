@@ -1,0 +1,6 @@
+C:\Projects\HackerRank\SimpleArraySum\SimpleArraySum\bin\Debug\SimpleArraySum.exe.config
+C:\Projects\HackerRank\SimpleArraySum\SimpleArraySum\bin\Debug\SimpleArraySum.exe
+C:\Projects\HackerRank\SimpleArraySum\SimpleArraySum\bin\Debug\SimpleArraySum.pdb
+C:\Projects\HackerRank\SimpleArraySum\SimpleArraySum\obj\Debug\SimpleArraySum.csproj.CoreCompileInputs.cache
+C:\Projects\HackerRank\SimpleArraySum\SimpleArraySum\obj\Debug\SimpleArraySum.exe
+C:\Projects\HackerRank\SimpleArraySum\SimpleArraySum\obj\Debug\SimpleArraySum.pdb

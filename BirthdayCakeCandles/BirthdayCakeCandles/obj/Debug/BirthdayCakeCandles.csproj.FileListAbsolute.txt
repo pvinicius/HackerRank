@@ -1,0 +1,7 @@
+C:\Projects\HackerRank\BirthdayCakeCandles\BirthdayCakeCandles\bin\Debug\BirthdayCakeCandles.exe.config
+C:\Projects\HackerRank\BirthdayCakeCandles\BirthdayCakeCandles\bin\Debug\BirthdayCakeCandles.exe
+C:\Projects\HackerRank\BirthdayCakeCandles\BirthdayCakeCandles\bin\Debug\BirthdayCakeCandles.pdb
+C:\Projects\HackerRank\BirthdayCakeCandles\BirthdayCakeCandles\obj\Debug\BirthdayCakeCandles.csprojAssemblyReference.cache
+C:\Projects\HackerRank\BirthdayCakeCandles\BirthdayCakeCandles\obj\Debug\BirthdayCakeCandles.csproj.CoreCompileInputs.cache
+C:\Projects\HackerRank\BirthdayCakeCandles\BirthdayCakeCandles\obj\Debug\BirthdayCakeCandles.exe
+C:\Projects\HackerRank\BirthdayCakeCandles\BirthdayCakeCandles\obj\Debug\BirthdayCakeCandles.pdb

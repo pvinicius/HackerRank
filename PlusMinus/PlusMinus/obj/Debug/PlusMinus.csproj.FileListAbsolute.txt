@@ -1,0 +1,7 @@
+C:\Projects\HackerRank\PlusMinus\PlusMinus\bin\Debug\PlusMinus.exe.config
+C:\Projects\HackerRank\PlusMinus\PlusMinus\bin\Debug\PlusMinus.exe
+C:\Projects\HackerRank\PlusMinus\PlusMinus\bin\Debug\PlusMinus.pdb
+C:\Projects\HackerRank\PlusMinus\PlusMinus\obj\Debug\PlusMinus.csprojAssemblyReference.cache
+C:\Projects\HackerRank\PlusMinus\PlusMinus\obj\Debug\PlusMinus.csproj.CoreCompileInputs.cache
+C:\Projects\HackerRank\PlusMinus\PlusMinus\obj\Debug\PlusMinus.exe
+C:\Projects\HackerRank\PlusMinus\PlusMinus\obj\Debug\PlusMinus.pdb

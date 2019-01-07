@@ -1,0 +1,7 @@
+C:\Projects\HackerRank\RepeatedString\RepeatedString\bin\Debug\RepeatedString.exe.config
+C:\Projects\HackerRank\RepeatedString\RepeatedString\bin\Debug\RepeatedString.exe
+C:\Projects\HackerRank\RepeatedString\RepeatedString\bin\Debug\RepeatedString.pdb
+C:\Projects\HackerRank\RepeatedString\RepeatedString\obj\Debug\RepeatedString.csprojAssemblyReference.cache
+C:\Projects\HackerRank\RepeatedString\RepeatedString\obj\Debug\RepeatedString.csproj.CoreCompileInputs.cache
+C:\Projects\HackerRank\RepeatedString\RepeatedString\obj\Debug\RepeatedString.exe
+C:\Projects\HackerRank\RepeatedString\RepeatedString\obj\Debug\RepeatedString.pdb
