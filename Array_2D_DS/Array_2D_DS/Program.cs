@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Web.Script.Serialization;
 
 namespace Array_2D_DS
 {
@@ -31,16 +32,26 @@ namespace Array_2D_DS
 
         static void Main(string[] args)
         {
+            var objVet = new object[]
+            {
+                new { nome = "Huguinho", idade = 10 },
+                new { nome = "Zezinho", idade = 12 },
+                new { nome = "Luizinho", idade = 10 }
+            };
+
+            JavaScriptSerializer js = new JavaScriptSerializer();
+            string strJson = js.Serialize(objVet);
+
             //TextWriter textWriter = new StreamWriter(@System.Environment.GetEnvironmentVariable("OUTPUT_PATH"), true);
 
-            int[][] arr = new int[6][];
+            //int[][] arr = new int[6][];
 
-            for (int i = 0; i < 6; i++)
-            {
-                arr[i] = Array.ConvertAll(Console.ReadLine().Split(' '), arrTemp => Convert.ToInt32(arrTemp));
-            }
+            //for (int i = 0; i < 6; i++)
+            //{
+            //    arr[i] = Array.ConvertAll(Console.ReadLine().Split(' '), arrTemp => Convert.ToInt32(arrTemp));
+            //}
 
-            int result = hourglassSum(arr);
+            //int result = hourglassSum(arr);
 
             //textWriter.WriteLine(result);
 
